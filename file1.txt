@@ -4,3 +4,4 @@ commit test
 123
 456.
 Add line
+new_branch_line
